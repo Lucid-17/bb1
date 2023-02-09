@@ -1,0 +1,127 @@
+body {
+margin: 0;
+text-align: center; 
+background-color: #000066;
+}
+
+h2 {
+position: absolute;
+width: 155px;
+height: 120px;
+left: 82px;
+top: 125px;
+background: #0a0001;
+font-size: 90px;
+color: #F94F6D;
+width: 120px;
+margin: 20px;
+font-family: "Cursed Timer, ULiL";
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+
+/* text-align: center;
+color: #F94F6D; */ 
+}
+
+h5 {
+    position: absolute;
+width: 155px;
+height: 120px;
+left: 337px;
+top: 125px;
+background: #0a0001;
+font-size: 90px;
+color: #F94F6D;
+width: 120px;
+margin: 20px;
+font-family: "Cursed Timer ULiL";
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+
+text-align: center;
+
+color: #F94F6D;
+ }
+ 
+h3 {
+position: absolute;
+width: 149px;
+height: 36px;
+left: 85px;
+top: 60px;
+
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+/* identical to box height, or 90% */
+
+text-align: center;
+
+color: #EEEEEE;
+
+ }
+ 
+ h4 {
+position: absolute;
+width: 149px;
+height: 36px;
+left: 340px;
+top: 47px;
+
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+/* identical to box height, or 90% */
+
+text-align: center;
+
+color: #EEEEEE;
+ }
+ 
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttonGroupOne {
+color: #000066;
+position: absolute;
+width: 155px;
+height: 45px;
+left: 82px;
+top: 271px; 
+}
+
+.buttonGroupTwo {
+position: absolute;
+width: 155px;
+height: 45px;
+left: 337px;
+top: 271px;
+}
+
+.buttonGroupThree {
+position: absolute;
+width: 155px;
+height: 45px;
+left: 82px;
+top: 315px; 
+}
+
+.buttonGroupFour {
+position: absolute;
+width: 155px;
+height: 45px;
+left: 337px;
+top: 315px; 
+}
